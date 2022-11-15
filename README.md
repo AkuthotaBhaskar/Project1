@@ -7,7 +7,7 @@ This is a web based application developed for health related website
 
 
 **Project Link** - https://witty-stone-055e21d00.2.azurestaticapps.net
-**Project Demo video link** - 
+**Project Demo video link** - https://youtu.be/c27lgbONnLk
 
 
 ===Azure technologies used for project===
