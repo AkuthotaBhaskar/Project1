@@ -64,6 +64,7 @@ This is a web based application developed for health related website
 ###Static Web App
 
 
+![S W](https://user-images.githubusercontent.com/111440383/201925795-1b61f1c5-34d9-41ae-890e-0553ddc75a75.jpg)
 
  
  
